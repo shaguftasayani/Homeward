@@ -8,7 +8,7 @@ It has majorly 3 broad components:
 
 2) Biometrics - Powered by IOT, aims at collecting data such as fingerprints, iris scan, facial recognition, voice recognition and other documents scan such as passport and driver's license of the refugees to start building their
 
-3) Identity Management - This is implemented using smart contracts to provide a secure, tamper proof ledger of identity in conjunction with IPFS to store the documents and detailed information and integrated with a decentralized app that provides the user interface to all the interacting parties and nodes in the network
+3) Identity Management - Powered by Blockchain, this is implemented using smart contracts to provide a secure, tamper proof ledger of identity in conjunction with IPFS to store the documents and detailed information and integrated with a decentralized app that provides the user interface to all the interacting parties and nodes in the network
 
 This project is still under development and the MVP focuses on smart matrix and the identity management system through smart contracts.
 
