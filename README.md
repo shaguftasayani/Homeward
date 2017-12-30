@@ -16,8 +16,8 @@ For more details on the problem statement and the concept, please refer the "Doc
 
 For more understanding of the architecture and components refer Architecture/Homeward.jpg
 
-For referring the code, look at "smartcontracts" folder.
+For referring the code, look at "smartcontracts" folder. A factory pattern has been implemented to create a new instance of the person contract for every person using the dashboard contract. The person object only stores the ipfsHash of the related detailed data stored in json format in the IPFS.
 
 For referring to the analytics component, look at "Analytics" folder. In it, we have our dummy data, as well as the analytics components we used to qualify a refugee as accepted.
 
-A factory pattern has been implemented to create a new instance of the person contract for every person using the dashboard contract. The person object only stores the ipfsHash of the related detailed data stored in json format in the IPFS.
+
