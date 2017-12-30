@@ -18,5 +18,4 @@ For more understanding of the architecture and components refer Architecture/Hom
 
 For referring the code, look at "smartcontracts" folder.
 
-A factory pattern has been implemented to create a new instance of the person smart contract every time from the dashboard.
-The person object only stored the ipfsHash which is obtained from the IPFS for the related data stored in json format in the IPFS.
+A factory pattern has been implemented to create a new instance of the person contract for every person using the dashboard contract. The person object only stores the ipfsHash of the related detailed data stored in json format in the IPFS.
