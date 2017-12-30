@@ -1,0 +1,51 @@
+Problem Note
+
+A Global Refugee Crisis
+Every minute, 24 people around the world are forced to flee their homes. That’s 34,000 people a day who leave everything behind in the hope of finding safety. To date, there are over 65 million asylum-seekers and internally displaced people around the world. They flee because of persecution, war, or violence. For example, right now, nearly 5 million people have fled the conflict in Syria, and there is no end to the crisis in sight.
+
+Additionally, there are millions of internally displaced persons (IDP), who have been forced to flee their homes but remain inside their own country and have not crossed an international border. Unlike refugees, IDPs are not protected by international law or eligible to receive many types of aid. In South Sudan and in Yemen, more than 2.5 million people have been displaced by ongoing violence.
+
+Refugee statistics also fail to count people who leave their homes and cross international borders due to natural disasters, climate change, environmental factors, famine, or a severe lack of water, education, healthcare, or a livelihood.
+
+This is a global crisis.
+
+The Refugee Screening Process
+During the displacement process, there are key stakeholders often forgotten within the dynamics of human displacement - refugees themselves. To be eligible, they endure years in limbo - screened repeatedly by the United Nations and by the relevant country authorities. They are viewed as a burden and are therefore sent to whatever country will take them with little knowledge of how that country will receive them. For example, a refugee who is a lawyer or doctor will often find that their education and experience is ineligible for employment in their field in their new countries, ultimately risking a family’s livelihood and their ability to integrate successfully into society.
+
+For example, to immigrate to Canada, a country with welcoming policy, a refugee needs to pass through several layers of approval and screening by the United Nations, Canada Border Services Agencies, Interpol and others.
+
+Refugee leaves home country and typically make their way to neighbouring host countries (in the case of Syria, host countries include Lebanon, Turkey and Jordan)
+Refugee takes up residence in host country - not necessarily in a refugee camp. Some refugees have enough money to rent a home or stay with other people who take them in.
+The Host Country sorts refugees. The United Nations Refugee Agency (UNHCR) maintains that it is the responsibility of host countries to separate out combatants and those involved in activities “incompatible with the civilian character of asylum” from refugees. Some host countries engage in a first-stage screening, although some processes are unclear.
+UNHCR then registers those deemed eligible. Registration means conducting interviews with the refugee, touching on any past or current military activities, affiliations, other relevant information and future plans. Each refugee may also be subject to anti-fraud procedures, like iris scanning.
+Referral to Canada
+
+The time between the registration phase and a referral to a country accepting refugees can be lengthy - even years. Only a fraction get to this point. The UNHCR considers factors like gender, age, history, level of physical risk, and requirement for medical help not available in the host country. In emergencies, a group of refugees that has completed the process can be transported to Canada to complete the remaining steps there. Those who do not clear the next steps are then sent back.
+
+The Canadian government gets involved, with a visa officer conducting a review of the refugee’s documentation, ensuring they meet the criteria to be eligible to come to Canada. They will typically interview them in person in the host country.
+Medical checks then follow - if approved by the visa officer. At the same time, the refugee must pass through other security checks administered by CSIS. This includes a scrutinization of associations and memberships, as well as social media posts.
+The visa officer reviews the material from security and medical checks. If CSIS recommends the refugee to be admitted and the visa office agrees, then the refugee is granted permanent resident status.
+Arrival in Canada
+
+Key, Unaddressed Issues that Affect Successful Resettlement and Integration
+Refugees are given no indication of whether their education and professional experience will be validated upon arrival. Often, technical careers such as engineering, architecture, medicine, law, and others are negated upon entry. As such, potential talent is ignored and they end up living lives that are of a lower standard than they are capable of or used to. (This problem also affects immigrants, and it is universal, not just in Canada)
+Refugees do not flee with all of their relevant paperwork - documents to substantiate education, health, security clearance, etc.
+
+Canadian Assistance Programs
+In Canada, government-assisted refugees get helped through the Resettlement Assistance Program (RAP). Support services include: greeting at the airport, temporary housing, help with finding permanent housing, help with registering for mandatory federal and provincial programs, orientation to the community which includes: providing contacts for safety and emergency services, introducing refugees to the city where they have settled, explaining public transportation and the education and health care systems, explaining Canadian laws and customs and local climate, personal finance help such as budgeting, setting up bank accounts and using debit and credit cards, other basic “life” skills support for high needs clients, and referrals to other refugee programs
+Canada provides income support under the RAP to eligible refugees who cannot pay their own basic needs. Support can include a:
+One time household startup allowance, and
+Monthly income support payment
+
+(The level of monthly financial support is generally based on the prevailing provincial social assistance rates in the province where refugees settle. Financial support can last up to one year when a refugee arrives in Canada, or until they can support themselves - whichever occurs first.)
+
+Why Pilot with Canada?
+Canada is seen to have one of the most immigrant- and refugee- welcoming policies in the world. Prime Minister Justin Trudeau made international headlines when promising to welcome over 25,000 refugees in under three months. The country also increased its financial commitment to the UNHCR by $100 million. It passed a new law allowing refugees to appeal their rejection of status, and it restored temporary federal health benefits that had been previously taken away by the previous conservative government.
+
+However, the Canadian system is not without its flaws, and we feel that if our platform can address these flaws, then Canada would have a truly exemplary refugee welcoming policy that other countries could fully emulate.
+
+In speaking with current and former employees of UNHCR, as well as other members working in global integration programs in Canada, Colombia, Jordan and the US, we have found that given the issues around lengthy processing times, document verification, and assessment of integration potential, along with public perceptions of security and integration, the vision platform would be:
+
+An identity management platform that begins with a smart matrix powered by AI and Machine Learning where refugees can answer a series of questions that will then match them with the countries and cities they are most likely to integrate well into. This portal would connect to information and immigration systems of refugee welcoming countries. A detail record of initial screenings would be available on the back end. Refugees could track their applications and start educating themselves on the culture and language of the country their matched countries. This platform intends to build the identity of the refugees using blockchain smart contracts where their basic information collected via biometrics can be stored safely along with the education and professional records. The platform would also evaluate previous education and skills training and help refugees determine what re-training they would have to complete in order to be eligible to work in their field upon arrival. Finally, the platform would include a needs assessment, in order to help sponsors or friendly communities on location prepare for arrival. If tied to host or UN sponsored camps, then the platform would even schedule and track the medical appointments, interviews, and other appointments through the screening process. Hosting the progress of the first phase of screening through the app would allow for saved time and increased efficiencies.
+
+However, the MVP focuses on building the smart matrix and identity management through smart contracts storing the hash of the detailed information residing in the IPFS.
